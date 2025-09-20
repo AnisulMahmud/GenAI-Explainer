@@ -21,6 +21,7 @@ python -m venv .venv
 
 pip install -r requirements.txt
 streamlit run app.py
+```
 
 
 >  Note: This project uses **open, non-premium**. Voice quality and pronunciation may vary, and speaking rate can be faster than human speech. That’s expected for free models.
