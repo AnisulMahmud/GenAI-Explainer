@@ -1,4 +1,4 @@
-# 🎙 GeneraVoice
+#  GeneraVoice
 GeneraVoice is a free, Hugging-Face–powered Streamlit app that turns any research abstract into a AI-generated narration with downloadable audio
 
 Turn any **research abstract** into a **narrated explainer**.  
