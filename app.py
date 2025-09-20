@@ -9,7 +9,7 @@ st.set_page_config(page_title="GeneraVoice – Paper to Voice", page_icon="🎙"
 st.title("🎙 GeneraVoice")
 st.caption("Paste a research abstract ")
 
-#  User input 
+#  User input
 abstract = st.text_area("Research abstract", height=200, placeholder="Paste your abstract here...")
 
 if st.button("Generate Summary Script"):

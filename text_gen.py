@@ -1,7 +1,7 @@
 # text_gen.py
 from transformers import pipeline
 
-# Using a Hugging Face model (FLAN-T5) for text generation
+# Using a Hugging Face model (FLAN-T5) for text generation 
 _MODEL = "google/flan-t5-base"  
 
 _script_pipe = pipeline(

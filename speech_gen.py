@@ -6,7 +6,7 @@ import torch
 from huggingface_hub import hf_hub_download
 from transformers import AutoTokenizer, SpeechT5ForTextToSpeech, SpeechT5HifiGan
 
-#  models
+#  models to use
 TEXT_TO_SPEECH_MODEL = "microsoft/speecht5_tts"
 VOCODER_MODEL = "microsoft/speecht5_hifigan"
 
